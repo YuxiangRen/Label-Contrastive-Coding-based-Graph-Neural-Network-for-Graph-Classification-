@@ -41,5 +41,4 @@ for other conditions.
 
 1, The default setting includes using the GPU.
 2, To change model configurations, (e.g., set the epoch numbers of training as NNUMBER), add config `--epochs NUMBER`.
-# Label-Contrastive-Coding-based-Graph-Neural-Network-for-Graph-Classification-
 3, For the size limitation of Github, you can get the dataset from https://www.dropbox.com/sh/kc7xf42kz4lqx9a/AAC9wKim768TBNocN1JNPudFa?dl=0
